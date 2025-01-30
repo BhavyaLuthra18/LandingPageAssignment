@@ -27,7 +27,7 @@ function About() {
           />
         </Carousel.Item>
       </Carousel>
-      {/*-----------------Introduction------------------- */}
+      {/*-----------------Intro------------------- */}
       <p>
         We are a team of dedicated professionals driven by creativity,
         innovation, and a passion for exceptional design. With years of
