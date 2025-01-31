@@ -8,7 +8,7 @@ import { Carousel } from "react-bootstrap";
 function About() {
   return (
     <div className="aboutsection">
-      {/*-----------------------Heading---------------------- */}
+      {/*-----------------------Header---------------------- */}
       <h1 className="Header">About Us</h1>
       {/*--------------------User-Img-------------------- */}
       <Carousel>
