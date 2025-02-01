@@ -10,7 +10,7 @@ function About() {
     <div className="aboutsection">
       {/*-----------------------Heading---------------------- */}
       <h1 className="Header">About Us</h1>
-      {/*--------------------User-Image-------------------- */}
+      {/*--------------------User-Img-------------------- */}
       <Carousel>
         <Carousel.Item>
           <img
