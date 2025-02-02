@@ -164,7 +164,7 @@ code {
   }
 }
 
-/* Large Screens (Desktop) */
+/*-----------------Large Screens (Desktop)--------------------------- */
 @media (min-width: 1025px) {
   .Header {
     font-size: 40px;
