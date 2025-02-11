@@ -128,7 +128,7 @@ code {
 }
 
 /*---------------------Media Queries for Responsiveness-------------------*/
-/*-------Small-Screens-(Mobile)-------------*/
+/*-------Small-Screens-(Mobile-Screen-Size)-------------*/
 @media (max-width: 600px) {
   .Header {
     font-size: 28px;
